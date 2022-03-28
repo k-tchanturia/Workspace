@@ -22,17 +22,6 @@ h1, h2 {
   text-align: center;
 }
 
-.graphic,
-.graphic-with-text {
-  margin: 1em auto;
-  width: 20%;
-}
-
-.graphic-with-text {
-  color: #FFF;
-  background: transparent url('../img/star.svg') left top no-repeat;
-  height: 200px;
-}
 
 
 
