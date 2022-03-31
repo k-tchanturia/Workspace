@@ -8,5 +8,3 @@ $('.spoiler button').click(function(){
     $('.spoiler span').show();             //Show the poler text
     $('.spoiler button').hide();           //Hide the "Reval Spiler" button
 })
-
-
